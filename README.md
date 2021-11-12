@@ -3,6 +3,9 @@
 
 ## Dean's Kubernetes Journey
 
+````Update: 1st November 2021``` So I managed to get around 14 days in before I broke my update streak and found it hard to return. That was 3 months ago... oops. 
+
+So instead of producing 100 days of consecutive every day updates. I'm instead going to just release an update consecutively when I have them, some days it will be one after the other, other days it could be a few days or more apart.
 ### Your Social
 - [✍️ Find me on Twitter](https://twitter.com/saintdle)
 - [✍️ Find me on LinkedIn](https://www.linkedin.com/in/saintdle)
@@ -27,10 +30,10 @@
 - [ ] ☸ 12 > [Deploying AWS EKS Clusters using VMware vRealize Automation](Journey/012/Readme.md)
 - [ ] ☸ 13 > [Working with TMC API and some container file fixes - YouTube videos and a podcast recording starring me!](Journey/013/Readme.md)
 - [ ] ☸ 14 > [Kubernetes Finalizers](Journey/014/Readme.md)
-- [ ] ☸ 15 > [](Journey/015/Readme.md)
-- [ ] ☸ 16 > [](Journey/016/Readme.md)
+- [ ] ☸ 15 > [Kubernetes Labels and Annotations](Journey/015/Readme.md)
+- [ ] ☸ 16 > [Exploring Tanzu Build Services and re-building my Pac-Man Demo Container](Journey/016/Readme.md)
 - [ ] ☸ 17 > [Something new using the same idea! Deploy Azure AKS clusters using vRA](Journey/017/Readme.md)
-- [ ] ☸ 18 > [](Journey/018/Readme.md)
+- [ ] ☸ 18 > [Work on Project Pace - Local installation of Kubernetes and Deploy an app and protect it with Kasten](Journey/018/Readme.md)
 - [ ] ☸ 19 > [](Journey/019/Readme.md)
 - [ ] ☸ 20 > [](Journey/020/Readme.md)
 
