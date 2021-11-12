@@ -3,7 +3,7 @@
 
 ## Dean's Kubernetes Journey
 
-````Update: 1st November 2021``` So I managed to get around 14 days in before I broke my update streak and found it hard to return. That was 3 months ago... oops. 
+````Update: 1st November 2021```` So I managed to get around 14 days in before I broke my update streak and found it hard to return. That was 3 months ago... oops. 
 
 So instead of producing 100 days of consecutive every day updates. I'm instead going to just release an update consecutively when I have them, some days it will be one after the other, other days it could be a few days or more apart.
 ### Your Social
